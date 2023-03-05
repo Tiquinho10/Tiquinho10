@@ -22,3 +22,4 @@
 Tiquinho10/Tiquinho10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ [![HitCount](https://hits.dwyl.com/Tiquinho10/Tiquinho10.svg?style=flat-square)](http://hits.dwyl.com/Tiquinho10/Tiquinho10)
